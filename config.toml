@@ -1,4 +1,4 @@
-baseURL = "https://memento-photos.netlify.app/"
+baseURL = "https://memento-photos.com/"
 languageCode = "en-us"
 title = "Memento Photos"
 theme = "dimension"
