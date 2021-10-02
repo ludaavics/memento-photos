@@ -1,0 +1,43 @@
+# OS generated files
+.DS_Store
+
+# byte-complied / optimized / dll files
+__pycache__/
+*.py[cod]
+
+# virtual environments / package managers
+.env*
+venv/
+.python-version
+
+# data files
+*.xls*
+*.doc*
+*.csv
+*.dat
+
+# application generated
+*.log
+*.rdb
+.mypy_cache/
+.netlify/
+build/
+public/
+
+# testing
+.coverage
+.coverage.*
+tox.ini
+
+# developping
+.ideas
+.notes
+*.ipy*
+*egg-info*
+.vscode/
+
+
+# private keys
+*.pem
+*.key
+*.crt
