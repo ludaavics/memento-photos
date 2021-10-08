@@ -1,6 +1,6 @@
 ---
 title: "Year in Review Books"
-date: 2021-09-14T12:12:24-04:00
+date: 2021-08-17T12:12:24-04:00
 image : "images/post/year-in-review.jpg"
 description: ""
 categories: ["book types"]
@@ -53,7 +53,7 @@ trap of this sort of book: including too many pictures.
 ### Quality over quantity
 
 I have learned through experience that
-[the photo selection step is the most important one](photo-selection), but this is
+[the photo selection step is the most important one](/post/photo-selection), but this is
 especially relevant for year-in-review books, where the sheer volume of pictures
 can be overwhelming. So, before your start your selection, think about the year:
 which events stood out the most? **Build the structure for your book without even

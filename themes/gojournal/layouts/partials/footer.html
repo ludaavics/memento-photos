@@ -37,8 +37,10 @@
           </div>
           <div class="col-lg-4 col-md-5 text-md-right text-center">
             <ul class="list-inline social-icons">
+              {{ if .Site.Params.socialnetworks.enable }}
               {{ range .Site.Params.social }}
               <li class="list-inline-item"><a href="{{.link | safeURL}}"><i class="{{ .icon }}"></i></a></li>
+              {{ end }}
               {{ end }}
             </ul>
           </div>

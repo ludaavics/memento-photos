@@ -8,8 +8,6 @@ weight: 2
 type: "featured"
 ---
 
-![](/uploads/2021-04-09-how-long-image-small.jpg)
-
 If you’re anything like me, you probably tend to underestimate how long a project
 like a photobook might take. Well, you’re not likely to finish it in an evening,
 while watching a movie, but it doesn’t have to drag on for months either, especially
@@ -28,7 +26,7 @@ But I would argue that making the entire photobook takes 3 solid sessions:
 The first session is by far the most tedious and time-consuming, especially if your
 pictures are not very well organized in the first place. It also tends to determine
 how long everything else will take, but
-[more on that later](https://www.memento-photos.com/posts/#why-the-photo-selection-is-the-most-important-step).
+[more on that later](/post/photo-selection).
 
 The second session is where the creative magic happens: this is your opportunity to
 turn a bag of pictures into a story teller. I like to think of each double page as

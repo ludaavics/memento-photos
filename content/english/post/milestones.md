@@ -30,7 +30,7 @@ You are likely to start out with a large number of pictures for a big event – 
 pictures for a wedding. So, your first goal needs to be to pare that down to a
 reasonable number. As a rule of thumb, you should have no more than 4 pictures per
 page on average. That will make it much easier to put together your photobook.
-As explained [here](photo-selection), not having too many pictures is the key to an
+As explained [here](/post/photo-selection), not having too many pictures is the key to an
 enjoyable photobook-making process.
 
 ### 2. Create a narrative
