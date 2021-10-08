@@ -71,13 +71,15 @@ enable = false
 image = "images/promotion.png"
 link = "#"
 
+################################### Social Networks ####################################
 [params.instafeed]
-enable = true
+enable = false
 user_id = "4044026246"
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 
+[params.socialnetworks]
+enable = false
 
-################################### Social Networks ####################################
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
