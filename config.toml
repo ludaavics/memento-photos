@@ -48,35 +48,29 @@ weight = 2
 ####################################### Branding #######################################
 [params]
 logo = "images/logo.png"
-# Meta data
-description = "This is meta description"
-author = "Themefisher"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# Google Analitycs
-google_analitycs_id = "" # your id
-# sidebar
+description = "Turn your photos into memories"
+author = "Ludovic Tiako"
+contact_form_action = "https://formspree.io/f/mzbywoed"
+google_analitycs_id = "G-THQKPBJV27"
 sidebar = "left" #sidebar value (left,right,false)
 
-# Preloader
 [params.preloader]
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
-# Subscription
+
+######################################## Feeds #########################################
 [params.subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://memento-photos.us5.list-manage.com/subscribe/post?u=9e88e1c6cef8fcc01d130cef5&amp;id=ee00886a29"
+mailchimp_form_name = "b_9e88e1c6cef8fcc01d130cef5_ee00886a29"
 
-# promotion
 [params.promotion]
-enable = true
+enable = false
 image = "images/promotion.png"
 link = "#"
 
-# Instagram feed
 [params.instafeed]
 enable = true
 user_id = "4044026246"

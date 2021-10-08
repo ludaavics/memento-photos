@@ -10,7 +10,7 @@
         {{ with .Site.Params.subscription }}
         <form action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank">
           <div class="input-group px-lg-5">
-            <input type="email" class="form-control" placeholder="Your Email Address">
+            <input type="email" name="EMAIL" class="form-control" placeholder="Your Email Address">
             <div class="input-group-append">
               <button class="btn btn-primary" type="submit" name="subscribe">{{ i18n "subscribe"}}</button>
             </div>
