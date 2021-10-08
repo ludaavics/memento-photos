@@ -1,53 +1,21 @@
-######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "GoJournal | Hugo Personal Blog Template"
+###################################### Site Wide #######################################
+baseURL = "https://memento-photos.com/"
+title = "Memento Photos"
 theme = "gojournal"
-# post pagination
-paginate = "3"
-# post excerpt
+
+paginate = "3" # post pagination
 summaryLength = "20"
-# disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["fr"] # disable language from here
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
-# unsafe html
 [markup.goldmark.renderer]
 unsafe = true
 
-############################# Plugins ##############################
 
-# CSS Plugins
-[[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-link = "plugins/slick/slick.css"
-[[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
-[[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
-[[params.plugins.js]]
-link = "plugins/instafeed/instafeed.min.js"
-
-
-############################## navigation ###############################
-
-# main menu
+####################################### Main Menu ######################################
 [[menu.main]]
 name = "About"
 URL = "about"
@@ -59,17 +27,12 @@ URL = "privacy-policy"
 weight = 2
 
 [[menu.main]]
-name = "More Hugo Theme"
-URL = "https://gethugothemes.com/shop/"
-weight = 2
-
-[[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 4
+weight = 3
 
-# footer menu
 
+######################################### Footer #######################################
 [[menu.footer]]
 name = "contact"
 URL = "contact"
@@ -81,7 +44,8 @@ name = "privacy policy"
 URL = "privacy-policy"
 weight = 2
 
-#################### default parameters ################################
+
+####################################### Branding #######################################
 [params]
 logo = "images/logo.png"
 # Meta data
@@ -118,7 +82,8 @@ enable = true
 user_id = "4044026246"
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 
-############################# social site ########################
+
+################################### Social Networks ####################################
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
@@ -134,40 +99,52 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-
-################################### English language #####################################
+################################### English language ###################################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# subscription
-subscription_title = "Join Newteller for the latest news"
-subscription_content = "Subscribe now to get notified about exclusive News And Views Issues every week!"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+subscription_title = "Join our newsletter"
+subscription_content = "Subscribe now to get notified about new posts!"
+copyright = "Copyright &copy; 2021 Memento Photos"
 
 
-################################### French language #####################################
+################################### French language ####################################
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-# subscription
-subscription_title = "Rejoignez Newteller pour les dernières nouvelles"
-subscription_content = "Subscribe now to get notified about exclusive News And Views Issues every week!"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+subscription_title = "Abonnez-vous à notre newsletter"
+subscription_content = "Abonnez-vous pour recevoir nos articles!"
+copyright = "Copyright &copy; 2021 Memento Photos"
+
+
+####################################### Plugins ########################################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
