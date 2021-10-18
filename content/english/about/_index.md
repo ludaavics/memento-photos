@@ -1,7 +1,7 @@
 ---
 title: "About me"
 # image: "images/about.png"
-description: "Photos are cool!"
+# description: "Photos are cool!"
 
 team: []
 # team:
@@ -22,7 +22,6 @@ team: []
 #     image : "images/team/4.png"
 #     designation : "Founder & CEO"
 ---
-
 
 Hi, I'm Tatiana. I'm passionate about photos, and the way pictures help us remember
 the most meaningful moments of our lives.

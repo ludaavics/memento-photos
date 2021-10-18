@@ -1,8 +1,10 @@
 ---
 title: "How Long Does It Take To Make a Photobook?"
 date: 2021-09-14T12:40:24-04:00
-image : "images/post/how-long.jpg"
-description: ""
+image: "images/post/how-long.jpg"
+summary:
+  "You’re not likely to finish it in an evening, but it doesn’t have to drag
+  on for months either, especially if you start with the right expectations."
 categories: ["preparation", "featured"]
 weight: 2
 type: "featured"
@@ -23,16 +25,22 @@ But I would argue that making the entire photobook takes 3 solid sessions:
 2. Doing the bulk of the photobook layout (_2 to 5 hours_)
 3. Perfecting each page and putting your finishing touches (_3 to 5 hours_)
 
+### 1. Pictures selection
+
 The first session is by far the most tedious and time-consuming, especially if your
 pictures are not very well organized in the first place. It also tends to determine
 how long everything else will take, but
 [more on that later](/post/photo-selection).
+
+### 2. Layout
 
 The second session is where the creative magic happens: this is your opportunity to
 turn a bag of pictures into a story teller. I like to think of each double page as
 its own little chapter and I personally find it very satisfying seeing it come to life.
 My recommendation is to do this whole session in one go, if possible, as it will
 motivate you, and make it much more likely that you will then finish your project.
+
+### 3. Fine Tuning
 
 The last session is very detail-oriented and focuses on making each page beautiful.
 This can take quite a while, but I personally like to give myself a fixed amount of

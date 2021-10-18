@@ -1,8 +1,9 @@
 ---
 title: "The Most Important Step"
 date: 2021-10-01T15:40:24-04:00
-image : "images/post/photo-selection.jpg"
-description: "A crucial first step"
+image: "images/post/photo-selection.jpg"
+summary: "Selecting just enough photos for your book is the
+  single biggest predictor of the time it will take you to finish the book."
 categories: ["featured"]
 type: "featured"
 ---
@@ -12,19 +13,19 @@ If you start with several thousand pictures from a long trip or even a whole yea
 it can take a while to go through them all, and select the best ones to include in
 your photobook. For many people, this is the least enjoyable part of the process.
 
-Yet, selecting just enough photos for your book is the single biggest predictor of the
-time it will take you to finish the book. Choose too many photos, and you are now
+Yet, **selecting just enough photos for your book is the single biggest predictor of the
+time it will take you to finish the book**. Choose too many photos, and you are now
 wasting time on every step: it takes you more time to select the photos, more time to
 upload them, and most of all, more time to curate each page.
 
 Just imagine starting with 20 photos on each page: it will take you forever to pare
 them down to a reasonable number. You will spend time comparing them to each other,
 looking for the right layout, etc. etc. I personally have made that mistake often, and
-regretted it every single time. Believe me on this: delaying decision making when you
-are selecting your photos always costs you in the end. You will spend way too much
+regretted it every single time. Believe me on this: **delaying decision making when you
+are selecting your photos always costs you in the end**. You will spend way too much
 time on each page, and you will find the whole process daunting.
 
-A good rule of thumb is to assume four photos per page. For instance, if you are
+A good rule of thumb is to **assume four photos per page**. For instance, if you are
 making a 50-page photo book, you should aim to select about 200 pictures in your
 first pass. Also, because you’re more likely to have a few full-page photos than to
 have 8 photos in a single page, you usually won’t use all of your first-pass selection

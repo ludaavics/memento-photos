@@ -1,8 +1,9 @@
 ---
 title: "Why Bother?"
 date: 2021-09-04T22:18:24-04:00
-image : "images/post/why-bother.jpg"
-description: "Why bother?"
+image: "images/post/why-bother.jpg"
+summary: "We can never seem to find the time to sort and organize our pictures.
+  Yet, turning our pictures into something meaningful is incredibly important."
 categories: ["preparation", "featured"]
 type: "featured"
 weight: 1
@@ -59,7 +60,7 @@ about my life experiences.
 In this pandemic year, where we all have been stuck at home for months on end,
 flipping through the pages of old travel photobooks has helped me put things in
 perspective. Sure, I am not able to travel right now, but I have been so incredibly
-fortunate to see and experience so many wonderful countries so far.
+fortunate to see and experience so many wonderful places so far.
 
 In moments when my husband’s delightful habit of leaving his socks on the floor is
 starting to drive me insane, looking at our engagement album reminds me of how far
@@ -78,7 +79,7 @@ For children, knowing where they come from, and putting their own life in the la
 context of an extended family is fundamental. It gives them security, and allows them
 to build a strong sense of self. We all know how much kids love to hear us talk about
 stories from our own childhood, or about distant great-grandparents they haven’t had
-the chance to know. Having those memories and experiences documented in photobooks
+the chance to meet. Having those memories and experiences documented in photobooks
 will allow you to show them, rather than simply tell them, about life before they
 were born. And that is a truly great gift to give to any child.
 

@@ -1,17 +1,16 @@
 ---
 title: "Milestone Photo Books"
 date: 2021-09-01T09:13:24-04:00
-image : "images/post/milestones.jpg"
+image: "images/post/milestones.jpg"
 description: ""
 categories: ["book types"]
 type: "regular"
 ---
 
-
 The big events in your life deserve to be celebrated. Those tend to be the memories
 you look back at, the ones you want to share with friends and family, and the ones you
-will take the most pleasure flipping through. Though putting together a wedding album c
-an seem like a daunting task, milestones photobooks tend to actually be easier than
+will take the most pleasure flipping through. Though putting together a wedding album
+can seem like a daunting task, milestones photobooks tend to actually be easier than
 you imagine.
 
 First, you generally have an abundance of good quality pictures (maybe even
@@ -36,8 +35,8 @@ enjoyable photobook-making process.
 ### 2. Create a narrative
 
 Whether it is chronological or thematic, I really recommend adding a structure to your
- milestone photobook. Unless your book is really short (less than 30 pages), you need
- to have some separation between the different sections.
+milestone photobook. Unless your book is really short (less than 30 pages), you need
+to have some separation between the different sections.
 
 For a wedding for example, you could have different chapters for getting ready
 / first look / the ceremony / photo session / cocktail / dinner / party. Or you could

@@ -1,8 +1,9 @@
 ---
 title: "Year in Review Books"
 date: 2021-08-17T12:12:24-04:00
-image : "images/post/year-in-review.jpg"
-description: ""
+image: "images/post/year-in-review.jpg"
+summary: "Build a collection of photobooks that serve as your own time capsules,
+  and show you what your life and your family looked like at any point in time."
 categories: ["book types"]
 type: "trending"
 ---
@@ -69,15 +70,15 @@ could make for you.
 
 Finally, a few things I would suggest for a year-in-review photobook:
 
-* **Include pictures of your home**, especially if you have moved to a new one. We
-rarely purposefully take pictures of the places where we live, and instead, tend to
-simply view them as the backdrop to our daily lives. But it can be really nice to have
-some pictures of your space included in your book, so that you can look back and
-remember it as you flip through your book years later.
-* **Include everyone’s pictures**: once you’ve created the structure for your book,
-ask your family members and friends for the pictures that you may be missing. Better
-yet, create a Google photos album, where each person can upload their pictures, and
-make sure you save them in high resolution!
+- **Include pictures of your home**, especially if you have moved to a new one. We
+  rarely purposefully take pictures of the places where we live, and instead, tend to
+  simply view them as the backdrop to our daily lives. But it can be really nice to have
+  some pictures of your space included in your book, so that you can look back and
+  remember it as you flip through your book years later.
+- **Include everyone’s pictures**: once you’ve created the structure for your book,
+  ask your family members and friends for the pictures that you may be missing. Better
+  yet, create a Google photos album, where each person can upload their pictures, and
+  make sure you save them in high resolution!
 
 Year-in-review photobooks take time, but they are some of the most precious and
 meaningful books you can create. So I truly encourage you to invest the time and
