@@ -1,4 +1,146 @@
+###################################### Site Wide #######################################
 baseURL = "https://memento-photos.com/"
-languageCode = "en-us"
 title = "Memento Photos"
-theme = "dimension"
+theme = "gojournal"
+
+paginate = "3" # post pagination
+summaryLength = "20"
+disqusShortname = "" # get your shortname form here : https://disqus.com
+disableLanguages = ["fr"] # disable language from here
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+####################################### Main Menu ######################################
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[menu.main]]
+name = "Privacy Policy"
+URL = "privacy-policy"
+weight = 2
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 3
+
+
+######################################### Footer #######################################
+[[menu.footer]]
+name = "contact"
+URL = "contact"
+weight = 1
+
+
+[[menu.footer]]
+name = "privacy policy"
+URL = "privacy-policy"
+weight = 2
+
+
+####################################### Branding #######################################
+[params]
+logo = "images/logo.svg"
+description = "Turn your photos into memories"
+author = "Ludovic Tiako"
+contact_form_action = "https://formspree.io/f/mzbywoed"
+google_analitycs_id = "G-THQKPBJV27"
+sidebar = "left" #sidebar value (left,right,false)
+
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+
+######################################## Feeds #########################################
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://memento-photos.us5.list-manage.com/subscribe/post?u=9e88e1c6cef8fcc01d130cef5&amp;id=ee00886a29"
+mailchimp_form_name = "b_9e88e1c6cef8fcc01d130cef5_ee00886a29"
+
+[params.promotion]
+enable = false
+image = "images/promotion.png"
+link = "/contact"
+
+################################### Social Networks ####################################
+[params.instafeed]
+enable = false
+user_id = "4044026246"
+access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+
+[params.socialnetworks]
+enable = false
+
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+
+################################### English language ###################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+subscription_title = "Join our newsletter"
+subscription_content = "Subscribe now to get notified about new posts!"
+copyright = "Copyright &copy; 2021 Memento Photos"
+
+
+################################### French language ####################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
+subscription_title = "Abonnez-vous à notre newsletter"
+subscription_content = "Abonnez-vous pour recevoir nos articles!"
+copyright = "Copyright &copy; 2021 Memento Photos"
+
+
+####################################### Plugins ########################################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
