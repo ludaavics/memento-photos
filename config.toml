@@ -47,7 +47,7 @@ weight = 2
 
 ####################################### Branding #######################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.svg"
 description = "Turn your photos into memories"
 author = "Ludovic Tiako"
 contact_form_action = "https://formspree.io/f/mzbywoed"
@@ -69,7 +69,7 @@ mailchimp_form_name = "b_9e88e1c6cef8fcc01d130cef5_ee00886a29"
 [params.promotion]
 enable = false
 image = "images/promotion.png"
-link = "#"
+link = "/contact"
 
 ################################### Social Networks ####################################
 [params.instafeed]
