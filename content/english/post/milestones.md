@@ -1,7 +1,7 @@
 ---
 title: Milestone Photo Books
 date: 2021-09-01T09:13:24.000-04:00
-image: images/post/milestones.jpg
+image: "/images/milestone-photo-books-lr.jpg"
 description: ''
 categories:
 - book types
