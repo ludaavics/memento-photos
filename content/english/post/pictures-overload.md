@@ -10,7 +10,7 @@ categories:
 type: regular
 
 ---
-I was recently working on a photobook focused on a little girl's first year of life. After initially discussing how she was hoping to structure the book, her mom promptly sent me her pictures, apologizing for the fact that she had never taken the time to sort through them, and that there were loads, LOADS of photos. How many photos? 6,854 is the exact number she sent me. 
+I was recently working on a photobook focused on a little girl's first year of life. After initially discussing how she was hoping to structure the book, her mom promptly sent me her pictures, apologizing for the fact that she had never taken the time to sort through them, and that there were loads, LOADS of photos. How many photos? 6,854 is the exact number she sent me.
 
 Once I downloaded them all, and started scrolling, I felt truly discouraged. How could I possibly sort through almost seven thousand pictures?? This was going to take me DAYS. All I wanted to do was close my computer and go do something else.
 
@@ -39,14 +39,7 @@ result is all that really matters.
 
 ### 2. Go for a lot of short sorting sessions
 
-Going through thousands of pictures is really tiring. We get overwhelmed by the sheer
-volume of data we have to process, and we get decision fatigue, because we have to
-make yes or no decisions for each and every photo. This is why setting a time limit
-is so effective: if you decide you are only going to sort pictures for 15 or 30
-minutes will help you stay on task, not get distracted, and remain efficient.
-Alternatively, I also like to set aside a fixed number of pictures that I want to
-go through, and challenge myself to go through them as quickly as possible.
-“200 pictures in 10min? Sure, I can do that!”
+Going through thousands of pictures is really tiring. We get overwhelmed by the sheer volume of data we have to process, and we get decision fatigue, because we have to make yes or no decisions for each and every photo. This is why setting a time limit is so effective: deciding at the beginning that  you are only going to sort pictures for 15 or 30 minutes will help you stay on task, not get distracted, and remain efficient. Alternatively, I also like to set aside a fixed number of pictures that I want to go through, and challenge myself to go through them as quickly as possible. “200 pictures in 10min? Sure, I can do that!”
 
 ### 3. Mark your selected pictures
 
