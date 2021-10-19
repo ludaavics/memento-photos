@@ -22,7 +22,7 @@ is not nearly as daunting as it appears. How long did it take me to sort through
 6,854 pictures? About 4 hours. And here are a few tips that helped me get this done,
 instead of giving up on the project altogether.
 
-### 1. Only pick out your favorites
+#### 1. Only pick out your favorites
 
 When I think of properly sorting pictures, I imagine looking at each photo in detail,
 deleting all the unnecessary ones, and arranging everything in neat little folders.
