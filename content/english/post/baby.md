@@ -1,7 +1,7 @@
 ---
 title: Baby Books
 date: 2021-07-01T07:23:15.000-04:00
-image: images/post/baby.jpg
+image: "/images/baby-books-lr.jpg"
 description: ''
 summary: Few pictures hold as much sentimental value as those of your tiny baby.
 categories:
