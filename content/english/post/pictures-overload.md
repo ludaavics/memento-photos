@@ -1,7 +1,7 @@
 ---
 title: Pictures Overload
 date: 2021-10-17T21:37:25.000-04:00
-image: images/post/pictures-overload.jpg
+image: "/images/pictures-overload-lr.jpg"
 description: ''
 summary: Being faced with an unsurmountable mountain of pictures feels absolutely
   discouraging. This pictures overload problem is typical in our digital age.
