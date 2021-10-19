@@ -37,11 +37,11 @@ just pick the pictures you want to include in your photobook. You will still end
 with a beautiful, meaningful book that contains your favorite memories, and that end
 result is all that really matters.
 
-### 2. Go for a lot of short sorting sessions
+#### 2. Go for a lot of short sorting sessions
 
 Going through thousands of pictures is really tiring. We get overwhelmed by the sheer volume of data we have to process, and we get decision fatigue, because we have to make yes or no decisions for each and every photo. This is why setting a time limit is so effective: deciding at the beginning that  you are only going to sort pictures for 15 or 30 minutes will help you stay on task, not get distracted, and remain efficient. Alternatively, I also like to set aside a fixed number of pictures that I want to go through, and challenge myself to go through them as quickly as possible. “200 pictures in 10min? Sure, I can do that!”
 
-### 3. Mark your selected pictures
+#### 3. Mark your selected pictures
 
 I find that the quickest way to select my favorite pictures is to simply mark them as
 favorites. As you go through each picture, it barely takes a second to mark it as
