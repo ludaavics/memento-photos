@@ -1,5 +1,5 @@
 ---
-title: Milestone Photo Books
+title: Milestone Photobooks
 date: 2021-09-01T09:13:24.000-04:00
 image: "/images/milestone-photo-books-lr.jpg"
 description: ''
