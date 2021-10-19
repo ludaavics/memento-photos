@@ -1,7 +1,7 @@
 ---
 title: Year in Review Books
 date: 2021-08-17T12:12:24.000-04:00
-image: images/post/year-in-review.jpg
+image: "/images/year-in-review-books-lr.jpg"
 summary: Build a collection of photobooks that serve as your own time capsules, and
   show you what your life and your family looked like at any point in time.
 categories:
