@@ -3,6 +3,8 @@ title: About me
 team: []
 
 ---
+![](/images/dsc07147.JPG)
+
 Hi, I’m Tatiana. I’m passionate about photos, and the way pictures help us remember the most meaningful moments of our lives.
 
 Yet, I know that most of us today have way too many pictures to manage. If you feel overwhelmed by your photos and never seem to find the time to do anything meaningful with them, you are certainly not alone!
