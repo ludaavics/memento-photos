@@ -3,7 +3,7 @@ title: About me
 team: []
 
 ---
-![](/images/about-bis.JPG)
+![](/images/dsc02249-nb.JPG)
 
 Hi, I’m Tatiana. I’m passionate about photos, and the way pictures help us remember the most meaningful moments of our lives.
 
