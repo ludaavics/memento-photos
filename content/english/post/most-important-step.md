@@ -1,14 +1,15 @@
 ---
 title: The Most Important Step
 date: 2021-10-01T15:40:24.000-04:00
-image: "/images/the-most-important-step-lr.jpg"
-summary: Selecting just enough photos for your book is the single biggest predictor
+image: "/images/post/most-important-step.jpg"
+summary:
+  Selecting just enough photos for your book is the single biggest predictor
   of the time it will take you to finish the book.
 categories:
-- featured
+  - featured
 type: featured
-
 ---
+
 As much as you love your photos, making a selection is a tiresome process.
 If you start with several thousand pictures from a long trip or even a whole year,
 it can take a while to go through them all, and select the best ones to include in

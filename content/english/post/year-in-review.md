@@ -1,14 +1,15 @@
 ---
 title: Year in Review Books
 date: 2021-08-17T12:12:24.000-04:00
-image: "/images/year-in-review-books-lr.jpg"
-summary: Build a collection of photobooks that serve as your own time capsules, and
+image: "/images/post/year-in-review.jpg"
+summary:
+  Build a collection of photobooks that serve as your own time capsules, and
   show you what your life and your family looked like at any point in time.
 categories:
-- book types
+  - book types
 type: trending
-
 ---
+
 Big life events and memorable travel experiences come with their fair share of
 wonderful pictures and rightfully deserve their own photobooks. But what about those
 everyday moments you treasure and want to remember? It’s probably not realistic to
@@ -71,12 +72,12 @@ could make for you.
 
 Finally, a few things I would suggest for a year-in-review photobook:
 
-* **Include pictures of your home**, especially if you have moved to a new one. We
+- **Include pictures of your home**, especially if you have moved to a new one. We
   rarely purposefully take pictures of the places where we live, and instead, tend to
   simply view them as the backdrop to our daily lives. But it can be really nice to have
   some pictures of your space included in your book, so that you can look back and
   remember it as you flip through your book years later.
-* **Include everyone’s pictures**: once you’ve created the structure for your book,
+- **Include everyone’s pictures**: once you’ve created the structure for your book,
   ask your family members and friends for the pictures that you may be missing. Better
   yet, create a Google photos album, where each person can upload their pictures, and
   make sure you save them in high resolution!

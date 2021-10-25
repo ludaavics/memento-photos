@@ -1,14 +1,14 @@
 ---
 title: Baby Books
 date: 2021-07-01T07:23:15.000-04:00
-image: "/images/baby-books-lr.jpg"
-description: ''
+image: "/images/post/baby.jpg"
+description: ""
 summary: Few pictures hold as much sentimental value as those of your tiny baby.
 categories:
-- book types
+  - book types
 type: regular
-
 ---
+
 A baby book is one of the best and most memorable photobooks you can make, as few other
 pictures hold as much sentimental value as those of your tiny baby.
 

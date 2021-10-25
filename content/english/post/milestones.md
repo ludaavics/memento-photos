@@ -1,13 +1,13 @@
 ---
 title: Milestone Photobooks
 date: 2021-09-01T09:13:24.000-04:00
-image: "/images/milestone-photo-books-lr.jpg"
-description: ''
+image: "/images/post/milestones.jpg"
+description: ""
 categories:
-- book types
+  - book types
 type: regular
-
 ---
+
 The big events in your life deserve to be celebrated. Those tend to be the memories
 you look back at, the ones you want to share with friends and family, and the ones you
 will take the most pleasure flipping through. Though putting together a wedding album
