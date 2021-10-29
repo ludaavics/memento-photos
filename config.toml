@@ -48,7 +48,7 @@ weight = 2
 ####################################### Branding #######################################
 [params]
 logo = "images/logo.svg"
-description = "Turn your photos into memories"
+description = "Turning pictures into memories"
 author = "Ludovic Tiako"
 contact_form_action = "https://formspree.io/f/mzbywoed"
 google_analitycs_id = "G-THQKPBJV27"
