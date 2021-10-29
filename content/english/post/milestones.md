@@ -1,10 +1,11 @@
 ---
-title: "Milestone Photo Books"
-date: 2021-09-01T09:13:24-04:00
-image: "images/post/milestones.jpg"
+title: Milestone Photobooks
+date: 2021-09-01T09:13:24.000-04:00
+image: "/images/post/milestones.jpg"
 description: ""
-categories: ["book types"]
-type: "regular"
+categories:
+  - book types
+type: regular
 ---
 
 The big events in your life deserve to be celebrated. Those tend to be the memories
@@ -23,7 +24,7 @@ So, I would encourage you to get started on your milestones photobooks: those wi
 probably be your favorites to flip through, and they won’t require nearly as much
 effort as you may think!
 
-## 1. Narrow your selection
+#### 1. Narrow your selection
 
 You are likely to start out with a large number of pictures for a big event – say 500
 pictures for a wedding. So, your first goal needs to be to pare that down to a
@@ -32,7 +33,7 @@ page on average. That will make it much easier to put together your photobook.
 As explained [here](/post/photo-selection), not having too many pictures is the key to an
 enjoyable photobook-making process.
 
-### 2. Create a narrative
+#### 2. Create a narrative
 
 Whether it is chronological or thematic, I really recommend adding a structure to your
 milestone photobook. Unless your book is really short (less than 30 pages), you need
@@ -47,7 +48,7 @@ together.
 Whatever structure you choose, adding an outline will make your book flow more
 naturally, and it will be all the more enjoyable to flip through.
 
-### 3. Include every participant
+#### 3. Include every participant
 
 Whatever milestone you’re celebrating with your photobook, it is likely to be one
 that is centered on people. Therefore, make sure you honor each guest or each

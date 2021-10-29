@@ -1,11 +1,12 @@
 ---
-title: "Baby Books"
-date: 2021-07-01T07:23:15-04:00
-image: "images/post/baby.jpg"
+title: Baby Books
+date: 2021-07-01T07:23:15.000-04:00
+image: "/images/post/baby.jpg"
 description: ""
-summary: "Few pictures hold as much sentimental value as those of your tiny baby."
-categories: ["book types"]
-type: "regular"
+summary: Few pictures hold as much sentimental value as those of your tiny baby.
+categories:
+  - book types
+type: regular
 ---
 
 A baby book is one of the best and most memorable photobooks you can make, as few other
@@ -35,7 +36,7 @@ chronological balance, so that each stage is represented. Also, try to include
 pictures of your whole family, and anyone who is really important in your child’s
 life: grand-parents, extended family, friends, caregivers etc.
 
-### How to structure your book?
+#### How to structure your book?
 
 When it comes to the layout of your pages, I usually recommend using variety to make
 sure your book is enjoyable to read, and doesn’t become monotonous. That being said,

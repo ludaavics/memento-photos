@@ -1,15 +1,16 @@
 ---
-title: "Why Bother?"
-date: 2021-09-04T22:18:24-04:00
-image: "images/post/why-bother.jpg"
-summary: "We can never seem to find the time to sort and organize our pictures.
-  Yet, turning our pictures into something meaningful is incredibly important."
-categories: ["preparation", "featured"]
-type: "featured"
+title: Why Bother?
+date: 2021-09-04T22:18:24.000-04:00
+image: images/post/why-bother.jpg
+summary: We can never seem to find the time to sort and organize our pictures. Yet,
+  turning our pictures into something meaningful is incredibly important.
+categories:
+- preparation
+- featured
+type: featured
 weight: 1
-draft: false
----
 
+---
 I have a grand total of 12 pictures of me as a baby. 47 if you include all the pictures,
 ages 0 through 9. Your family may have been a bit better at taking pictures, or
 preserving them, but it is likely that your parents or grandparents never had to
@@ -22,7 +23,7 @@ to find the time to sort and organize them, let alone do something meaningful wi
 Yet, turning your pictures into something meaningful is incredibly important, and I
 would argue that photobooks are the most meaningful thing you can make.
 
-### 1. Story telling
+#### 1. Story telling
 
 Whether you’re narrating a trip, a big life event, or just doing a yearly recap, a
 photobook turns your vague memories into stories that you can look back on and remember.
@@ -39,7 +40,7 @@ single memory, and are mostly focused on other people. Also, isn’t it more enj
 to flip through the pages of a physical photobook, rather than looking at photos
 on a screen?
 
-### 2. Becoming a better photographer
+#### 2. Becoming a better photographer
 
 Making a photobook will also change the way you look at picture taking in the first
 place. Once you’ve done a photobook or two, you will start to be more intentional
@@ -52,7 +53,7 @@ I know I won’t be able to put everything in a yearly book, nor do I want to, s
 being more intentional with photo taking often means simply putting the phone down
 and enjoying the moment.
 
-### 3. Finding joy and gratitude
+#### 3. Finding joy and gratitude
 
 I also find that going through my photobooks helps me to feel happy and grateful
 about my life experiences.
@@ -70,7 +71,7 @@ On days when my toddler’s constant need for my help and attention is sucking m
 ounces of energy, going through his baby album helps me appreciate how much he has
 grown, and how independent he has become.
 
-### 4. Passing on memories to future generations
+#### 4. Passing on memories to future generations
 
 Finally, we don’t make photobooks only for ourselves. A main motivator for many
 parents is to pass these memories on to their children, and to leave a legacy.

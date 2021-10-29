@@ -1,13 +1,13 @@
 ---
-title: "Gifting a Photobook"
-date: 2021-06-10T18:47:20-04:00
-image: "images/post/gifting.jpg"
-summary: "A photobook can be a thoughtful gift --
-  even for those that don't like taking pictures!"
+title: Gifting a Photobook
+date: 2021-06-10T18:47:20.000-04:00
+image: images/post/gifting.jpg
+summary: A photobook can be a thoughtful gift -- even for those that don't like taking
+  pictures!
 categories: []
-type: "trending"
----
+type: trending
 
+---
 Not everyone likes to take pictures. Fewer people still would ever consider taking the
 time to turn those pictures into a photobook. But pretty much everyone I know would
 enjoy receiving a photobook as a gift. It is probably the most thoughtful, personal
@@ -32,14 +32,14 @@ spent in their company.
 
 Whatever the situation, I would keep in mind the following things:
 
-### 1. Choose your occasion carefully
+#### 1. Choose your occasion carefully
 
 Just like any other gift, a photobook can become repetitive or expected, so try to
 choose your occasion carefully. Ideally, you want it to be a surprise and to be
 memorable (just like in my example of announcing a pregnancy, or making an
 engagement proposal).
 
-### 2. Plan ahead
+#### 2. Plan ahead
 
 Making a photobook takes time, so give yourself plenty of room, to avoid being rushed
 at the last minute. I would say, the ideal timeline would be: 2 weeks to make the
@@ -47,17 +47,17 @@ photobook, 1 solid week for printing and delivery and 1 week extra, just in case
 Therefore, I would recommend you **start your photobook 1 month before the day when
 you want to offer it**.
 
-### 3. See it from their point of view
+#### 3. See it from their point of view
 
 When you make the book, remember your audience: the person you are making it for may
 have tastes that are different from your own. Keep their perspective in mind when
 choosing and arranging your pictures.
 
-- Most people like to look at pictures of themselves, so make sure you are including
+* Most people like to look at pictures of themselves, so make sure you are including
   plenty of those, and make sure they are flattering.
-- If you know that they love certain pictures, even if they are not your own favorites,
+* If you know that they love certain pictures, even if they are not your own favorites,
   make sure you include them, and feature them prominently.
-- Finally, if their aesthetic taste is different from your own, make sure you take that
+* Finally, if their aesthetic taste is different from your own, make sure you take that
   into consideration as well. My Dad, for example, really likes repetitive layouts,
   with 1 to 4 pictures per page, so I try not to stray too far away from that when I
   make a photobook for him.

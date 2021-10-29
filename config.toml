@@ -67,7 +67,7 @@ mailchimp_form_action = "https://memento-photos.us5.list-manage.com/subscribe/po
 mailchimp_form_name = "b_9e88e1c6cef8fcc01d130cef5_ee00886a29"
 
 [params.promotion]
-enable = false
+enable = true
 image = "images/promotion.png"
 link = "/contact"
 
