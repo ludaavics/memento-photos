@@ -1,5 +1,5 @@
 ###################################### Site Wide #######################################
-baseURL = "https://memento-photos.com/"
+baseURL = "https://www.memento-photos.com/"
 title = "Memento Photos"
 theme = "gojournal"
 
